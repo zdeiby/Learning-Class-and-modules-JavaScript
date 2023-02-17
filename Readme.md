@@ -1,0 +1,1 @@
+Para ejecutarlo instalar live-server por npm y escribir npm run start :)
